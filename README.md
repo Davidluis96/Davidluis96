@@ -1,11 +1,10 @@
----
 <h1 align = "center"> Bienvenidos 👋</h1>
 <div id = "header" align = "center">
-  <img border= "1px" src = "https://www.bold.ne.jp/engineer-club/wp-content/uploads/2018/06/shutterstock_1087445741-991x607.jpg">
+  <img border= "3px" src = "https://www.bold.ne.jp/engineer-club/wp-content/uploads/2018/06/shutterstock_1087445741-991x607.jpg" width="800px" height="400px">
  </div>
  
  ---
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Lenguajes y Herramientas :
 <div align = "center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width = "60" height = "40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width = "60" height = "40">
