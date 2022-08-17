@@ -1,6 +1,6 @@
 <h1 align = "center"> Bienvenidos 👋</h1>
 <div id = "header" align = "center">
-  <img border= "3px" src = "https://www.bold.ne.jp/engineer-club/wp-content/uploads/2018/06/shutterstock_1087445741-991x607.jpg" width="800px" height="400px">
+  <img border= "3px" src = "https://www.bold.ne.jp/engineer-club/wp-content/uploads/2018/06/shutterstock_1087445741-991x607.jpg" width="991px" height="400px">
  </div>
  
  ---
